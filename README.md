@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Nikita Zerkalev</h1>
+<h2 align="center">Backend Developer (Java)</h2>
 
-<!--
-**iujhiy/iujhiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎯 Objective  
+Looking for an opportunity to apply backend development skills in real-world projects, deepen knowledge of the Spring ecosystem and microservice architecture.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education  
+
+**Higher Education (incomplete)**  
+*National Research University "MPEI" (NIU MPEI), Moscow*  
+**Specialty:** Applied Informatics in Economics (09.03.03)  
+
+**Course projects:**  
+- **Transport distribution algorithm** – C++, C#  
+- **Library system database** – design with Oracle Data Modeler, deployment on PostgreSQL  
+
+**Additional Education**  
+*Hexlet, profession "Java Developer"*  
+
+---
+
+## 💻 Project Experience  
+
+### **Task Manager**  
+*Java, Spring Boot, Spring Security, JWT, PostgreSQL, Docker*  
+
+**Goal:** Implement a task management system with access rights and authorization.  
+
+**Achievements:**  
+🔹 **Security:** Spring Security + JWT tokens for authentication and endpoint access control  
+🔹 **API:** 15+ REST endpoints  
+🔹 **CI/CD:** GitHub Actions automated pipeline  
+🔹 **Containerization:** Docker with profile separation (production: PostgreSQL, development: H2)  
+🔹 **Testing:** Unit tests (JUnit, Mockito, >80% coverage) + integration tests  
+🔹 **Quality:** SonarQube static analysis, Sentry error tracking  
+
+**Refactoring:** Optimized service layer – replaced 4 similar interfaces with a single generic interface and base implementation, reducing code duplication and simplifying scaling.  
+
+---
+
+## 🛠️ Professional Skills  
+
+**Backend & Languages**  
+- Java Core (21), C++ (basic)  
+
+**Frameworks & Libraries**  
+- Spring Boot, Spring Data JPA, Spring Security, Hibernate, Javalin, Lombok, Jackson  
+
+**Databases**  
+- PostgreSQL, H2, Redis  
+
+**Testing & Quality**  
+- JUnit 5, Mockito, Integration tests, SonarQube  
+
+**DevOps & Tools**  
+- Docker, Git (GitHub Actions CI/CD), Gradle, Ubuntu, deployment on Render  
+
+**Monitoring & API**  
+- Sentry, RESTful API  
+
+**Architecture**  
+- SOLID, DAO, DTO, Repository pattern  
+
+---
+
+## 📌 Desired Work Format  
+Remote, task-based (project-based) collaboration.  
+
+---
+
+## 📫 Contact Information  
+- **Name:** Nikita  
+- **Email:** [nikitazerkalev@gmail.com](mailto:nikitazerkalev@gmail.com)  
+- **Telegram:** [@Nikita_Zerkalev](https://t.me/Nikita_Zerkalev)
